@@ -1,8 +1,3 @@
-from calendar import TUESDAY
-from msilib.schema import Class
-from statistics import mode
-from tkinter import CASCADE
-from tkinter.tix import Tree
 from django.conf import settings
 from django.db import models
 
